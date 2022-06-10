@@ -54,8 +54,6 @@
 
 💻 # THE PHISHING ACADEMY -  <a href="https://t.me/PHISHTEAMACADEMY" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-My Projects 📝
-
 💻 # PHISHSITE-EVILGINX2 - This is a collection of phishing sites I have designed for perfect phishing.
 
 💻 # TEMPLATES-MODLISHKA - Collection of cryptocurrency phishing sites.
